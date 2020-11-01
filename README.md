@@ -9,5 +9,8 @@ Our aim to solve this problem by making a website in which people can translate 
 Within a single website user can find meaning and   translate it to another language
 
 
+We are solving the above problem statement
+
+
 The Github repo is - https://github.com/mravtechinfo/project-ces-1-translationary
 The video will be found at - https://youtu.be/RdWSC93X_hY
