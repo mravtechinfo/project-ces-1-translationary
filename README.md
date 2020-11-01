@@ -6,7 +6,7 @@ A large amount of concentration and expertise goes into making a translated text
 Our aim to solve this problem by making a website in which people can translate their sentences from any language to any other language and it will also word meaning .
 
 
-
+Within a single website user can find meaning and   translate it to another language
 
 
 The Github repo is - https://github.com/mravtechinfo/project-ces-1-translationary
